@@ -25,7 +25,7 @@ The Jupyter server can they be launched with ```jupyter lab```.
 
 > [!NOTE]
 > We use SWIIFT v0.7 in this work. The namespace used by SWIIFT < v0.10 was
-> flexfrac1d.
+> `flexfrac1d`.
 
 
 ## Use
